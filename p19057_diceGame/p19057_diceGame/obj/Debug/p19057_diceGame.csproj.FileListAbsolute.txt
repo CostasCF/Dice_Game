@@ -1,0 +1,14 @@
+C:\Users\kkalo\OneDrive\Documents\GitHub\Visual-CSharp-Game\upoxrewtiki1\p19057_diceGame\p19057_diceGame\bin\Debug\p19057_diceGame.exe.config
+C:\Users\kkalo\OneDrive\Documents\GitHub\Visual-CSharp-Game\upoxrewtiki1\p19057_diceGame\p19057_diceGame\bin\Debug\p19057_diceGame.exe
+C:\Users\kkalo\OneDrive\Documents\GitHub\Visual-CSharp-Game\upoxrewtiki1\p19057_diceGame\p19057_diceGame\bin\Debug\p19057_diceGame.pdb
+C:\Users\kkalo\OneDrive\Documents\GitHub\Visual-CSharp-Game\upoxrewtiki1\p19057_diceGame\p19057_diceGame\obj\Debug\p19057_diceGame.csprojAssemblyReference.cache
+C:\Users\kkalo\OneDrive\Documents\GitHub\Visual-CSharp-Game\upoxrewtiki1\p19057_diceGame\p19057_diceGame\obj\Debug\p19057_diceGame.Properties.Resources.resources
+C:\Users\kkalo\OneDrive\Documents\GitHub\Visual-CSharp-Game\upoxrewtiki1\p19057_diceGame\p19057_diceGame\obj\Debug\p19057_diceGame.csproj.GenerateResource.cache
+C:\Users\kkalo\OneDrive\Documents\GitHub\Visual-CSharp-Game\upoxrewtiki1\p19057_diceGame\p19057_diceGame\obj\Debug\p19057_diceGame.csproj.CoreCompileInputs.cache
+C:\Users\kkalo\OneDrive\Documents\GitHub\Visual-CSharp-Game\upoxrewtiki1\p19057_diceGame\p19057_diceGame\obj\Debug\p19057_diceGame.exe
+C:\Users\kkalo\OneDrive\Documents\GitHub\Visual-CSharp-Game\upoxrewtiki1\p19057_diceGame\p19057_diceGame\obj\Debug\p19057_diceGame.pdb
+C:\Users\kkalo\OneDrive\Documents\GitHub\Visual-CSharp-Game\upoxrewtiki1\p19057_diceGame\p19057_diceGame\obj\Debug\p19057_diceGame.Form1.resources
+C:\Users\kkalo\OneDrive\Documents\GitHub\Visual-CSharp-Game\upoxrewtiki1\p19057_diceGame\p19057_diceGame\bin\Debug\p19057_diceGame.exe.manifest
+C:\Users\kkalo\OneDrive\Documents\GitHub\Visual-CSharp-Game\upoxrewtiki1\p19057_diceGame\p19057_diceGame\bin\Debug\p19057_diceGame.application
+C:\Users\kkalo\OneDrive\Documents\GitHub\Visual-CSharp-Game\upoxrewtiki1\p19057_diceGame\p19057_diceGame\obj\Debug\p19057_diceGame.exe.manifest
+C:\Users\kkalo\OneDrive\Documents\GitHub\Visual-CSharp-Game\upoxrewtiki1\p19057_diceGame\p19057_diceGame\obj\Debug\p19057_diceGame.application
