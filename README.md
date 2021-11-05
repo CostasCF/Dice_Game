@@ -48,32 +48,33 @@ A simple game created with Visual C#.
 Εικόνα 1 Αρχικό μενού
 ```
 ![Dice1](https://user-images.githubusercontent.com/52785685/101353018-a1c41280-389b-11eb-93a1-1a9ada7dc600.png)
+<br>
 
 ```
 Εικόνα 2 Μενού επιλογών του χρήστη
 ```
 ![Dice2](https://user-images.githubusercontent.com/52785685/101353179-dd5edc80-389b-11eb-9030-d24b534e29f3.png)
-
+<br>
 ```
 Εικόνα 3 Authentication στο αν έδωσε επιλογές ο χρήστης και η εμφάνιση συγκεκριμένων μηνυμάτων.
 ```
 ![Dice3](https://user-images.githubusercontent.com/52785685/101353273-f9fb1480-389b-11eb-8933-00dda7521b35.png)
-
+<br>
 ```
 Εικόνα 4 Gameplay του παιχνιδιού. Πάνω δεξιά παρατηρείται το σκορ και ο υπολειπόμενος χρόνος.
 ```
 ![Dice4](https://user-images.githubusercontent.com/52785685/101353298-04b5a980-389c-11eb-8b6e-41e0583d35c2.png)
-
+<br>
 ```
 Εικόνα 5 Τερματισμός του παιχνιδιού και η δυνατότητα δύο επιλογών στον χρήστη.
 ```
 ![Dice5](https://user-images.githubusercontent.com/52785685/101353315-0d0de480-389c-11eb-948c-99a0344ff9c7.png)
-
+<br>
 ```
 Εικόνα 6 Λίστα των σκορ των χρηστών.
 ```
 ![Dice6](https://user-images.githubusercontent.com/52785685/101353346-1ac36a00-389c-11eb-9a64-5995af469e50.png)
-
+<br>
 ```
 Εικόνα 7 Πληροφορίες για το παιχνίδι που παρέχονται στον χρήστη.
 ```
